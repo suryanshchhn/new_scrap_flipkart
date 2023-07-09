@@ -37,8 +37,6 @@ REST API Endpoint:
 Example usage with cURL:
 -->  curl -X POST -d "content=iphone" http://localhost:5001/review
 
-License:
-This project is licensed under the [MIT License](LICENSE).
 
 INPUT PAGE
 ![INPUTPAGE](https://github.com/suryanshchhn/new_scrap_flipkart/assets/123889322/226e82d0-58a9-4749-aee5-55c01188a1de)
