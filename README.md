@@ -35,7 +35,7 @@ REST API Endpoint:
 -->content: The search query for the product reviews.
 
 Example usage with cURL:
--->  curl -X POST -d "content=iphone" http://localhost:5000/review
+-->  curl -X POST -d "content=iphone" http://localhost:5001/review
 
 License:
 This project is licensed under the MIT License.
